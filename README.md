@@ -2,7 +2,7 @@ React + Redux + Saga + Bootstrap 4 + Reactstrap + Router 4 + Mock Json-server Ap
 
 ## Home
 <br/>
-<img src="https://github.com/sanchez16rus/react-redux-saga-json-server-sscs/blob/master/img/face.png" />
+<img src="https://github.com/sanchez16rus/react-redux-saga-json-server-scss/blob/master/img/face.png" />
 <br/>
 
 ## Getting started
