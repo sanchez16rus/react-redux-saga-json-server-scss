@@ -1,0 +1,32 @@
+{
+  "name": "react-bootstrap-v4",
+  "version": "1.0.0",
+  "description": "Bootstrap V4 04.12.2017",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bootstrap": "^4.0.0-alpha.6",
+    "node-sass": "^4.7.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-addons-transition-group": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.0.17",
+    "reactstrap": "^4.8.0",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.16.0",
+    "json-server": "^0.12.1"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.4.1"
+  },
+  "scripts": {
+    "start": "set PORT=3001&& react-scripts start",
+    "scss-compile": "node-sass --include-path scss src/scss/style.scss src/css/style.css",
+    "json-srv": "json-server --watch db.json"
+  }
+}

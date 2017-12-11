@@ -1,0 +1,254 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 2,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 3,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 6,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 7,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 8,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 11,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 12,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 13,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 16,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 17,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 18,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 21,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 22,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 23,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 26,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 27,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 28,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 31,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 32,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 33,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 36,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 37,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 38,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 41,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 42,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 43,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    },
+    {
+      "id": 46,
+      "name": "Anna Smith",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/B4834FD33704-15.gif"
+    },
+    {
+      "id": 47,
+      "name": "Madonna",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/435A6BB49F37-12.gif"
+    },
+    {
+      "id": 48,
+      "name": "Angela Merkel",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/3BEBA8D1C98B-86.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Barak Obama",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/AEF5FD998B97-12.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Madam Dupon",
+      "avatarUrl": "https://super-avatara.ru/images/trueimg/originals/86/35C4A72D5E58-15.gif"
+    }
+  ]
+}

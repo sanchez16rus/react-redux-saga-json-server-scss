@@ -1,0 +1,4 @@
+#Ignore files built by Visual Studio
+.vs/
+#node_modules
+node_modules/

@@ -1,0 +1,48 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.btn-primary {
+    cursor:pointer;
+    @include button-variant(#fff, #6f5499, #6f5499);
+  }
+  .btn-success{
+    width:100%;
+    cursor:pointer;
+    box-sizing:border-box;
+  }
+  
+  .card {
+    margin-top: 30px;
+    overflow: hidden;
+    cursor:pointer;
+  }
+  
+  .card:hover .card-img-top {
+    top: 0;
+    transform: translateY(-250px);
+    transition: all .3s ease-in-out;
+    opacity:0;
+    overflow: hidden;
+  }
+  
+  .card-img-top {
+    transform: translateY(0);
+    opacity:100;
+  }
+
+.card:hover .sub-info {
+    opacity:1;
+        
+}
+
+.sub-info {
+    top: 0;
+    transition: all .3s ease-in-out;
+    opacity:0;
+    overflow: hidden;
+}
+  
+.div_center {
+    margin-top: 30px;
+    width:100%;
+    text-align:center; 
+}
