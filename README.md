@@ -11,7 +11,7 @@ React + Redux + Saga + Bootstrap 4 + Reactstrap + Router 4 + Mock Json-server Ap
 2. clone [repository](https://github.com/sanchez16rus/react-redux-saga-json-server-scss.git)
 3. run 'npm install'
 4. run 'npm run scss-compile'
-5. run 'npm json-srv' backend will start on http://localhost:3000/
-6. run 'npm start' frontend will start on http://localhost:3001/
+5. run 'npm run json-srv' backend will start on http://localhost:3000/
+6. run 'npm run start' frontend will start on http://localhost:3001/
 
 Good luck!
